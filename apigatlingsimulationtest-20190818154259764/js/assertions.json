@@ -1,0 +1,10 @@
+{
+  "simulation": "pl.piomin.services.gatling.ApiGatlingSimulationTest",
+  "simulationId": "apigatlingsimulationtest",
+  "start": 1566142979764,
+  "description": "",
+  "scenarios": ["AddAndFindOrders"],
+  "assertions": [
+
+  ]
+}
